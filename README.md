@@ -13,6 +13,7 @@ I'm Ramazan KAHRAMAN and I am a student currently.
 
 <div>
     <a href="https://www.linkedin.com/in/ramazan-kahraman-10a584185/" target="_blank">
+       <a href="https://healtherengineer.github.io/" target="_blank"  My Personel Blog>
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
 
