@@ -6,14 +6,7 @@
 </div>
 
 </br>
-<div align="center">
-   <div>
-   <img src="https://github-readme-stats.vercel.app/api?username=healtherengineer&theme=react&show_icons=true&include_all_commits=true&count_private=true" />
-   </div>
-   <div>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=healtherengineer&theme=react&langs_count=4&card_width=495" />
-   </div>
-</div>
+
 
 <div align="center">
     <h2>Contact</h2>
