@@ -1,26 +1,15 @@
 <div align="center">
-    <h1>Hi 👋, I'm Mustafa</h1>
+    <h1>Hi 👋, I'm Ege</h1>
     <p>I'm a Computer Engineering Student</p>
 </div>
 
-<div align="center">
-    <a href="https://gpvc.arturio.dev/mustafazaimoglu" target="_blank">
-        <img src="https://gpvc.arturio.dev/mustafazaimoglu" />
-    </a>
-</div>
+
 
 <br />
 
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-            alt="aws"
-            width="40"
-            height="40"
-        />
-    </a>
+    
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
@@ -53,14 +42,7 @@
             height="40"
         />
     </a>
-    <a href="https://heroku.com" target="_blank" rel="noreferrer">
-        <img
-            src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
-            alt="heroku"
-            width="40"
-            height="40"
-        />
-    </a>
+  
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -97,22 +79,8 @@
             height="40"
         />
     </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-            alt="mysql"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-            alt="nodejs"
-            width="40"
-            height="40"
-        />
-    </a>
+   
+  
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
         <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
@@ -159,7 +127,7 @@
 
 <h3 align="center">Contact</h3>
 <p align="center">
-   <a href="https://linkedin.com/in/mustafazaimoglu" target="blank"
+   <a href="https://www.linkedin.com/in/egebarisan/" target="blank"
         ><img
             align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -167,28 +135,6 @@
             height="30"
             width="40"
     /></a>
-    <a href="https://twitter.com/mstfzaimoglu" target="blank"
-        ><img
-            align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-            alt="mstfzaimoglu"
-            height="30"
-            width="40"
-    /></a>
-    <a href="https://instagram.com/mstfzaimoglu" target="blank"
-        ><img
-            align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="mstfzaimoglu"
-            height="30"
-            width="40"
-    /></a>
-    <a href="https://dev.to/mustafazaimoglu" target="blank"
-        ><img
-            align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"
-            alt="mustafazaimoglu"
-            height="30"
-            width="40"
-    /></a>
+    
+
 </p>
