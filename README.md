@@ -3,13 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=healtherengineer&label=Profile%20views&color=0e75b6&style=flat" alt="healtherengineer" /> </p>
 
-- 🌱 I’m currently learning **React.js for front-end skills.**
-
-- 👯 I’m looking to collaborate on **a social media project.**
-
 - 👨‍💻My personal website is [https://healtherengineer.github.io/](https://healtherengineer.github.io/)
-
-- 💬 Ask me about **SpringBoot,Java,Basic FrontEnd and Algorithms.**
 
 - 📫 How to reach me **ege.barisan.01@gmail.com**
 
